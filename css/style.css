@@ -1,5 +1,5 @@
 #main-menu {
-  background-color: #Black;
+  background-color: Black;
 }
 
 #main-navbar{
@@ -8,7 +8,7 @@
 }
 
 #navbar-container {
-  float: center;
+  float: left;
   width: 100%;
   position: relative;
 }
